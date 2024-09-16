@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Italia",
+    "imageUrl": "https://en.wikipedia.org/wiki/Flag_of_Italy#/media/File:Flag_of_Italy.svg"
+  },
+  {
+    "id": "2",
+    "name": "Francia",
+    "imageUrl": "https://en.wikipedia.org/wiki/Flag_of_Italy#/media/File:Flag_of_Italy.svg"
+  },
+  {
+    "id": "3",
+    "name": "Germania",
+    "imageUrl": "https://en.wikipedia.org/wiki/Flag_of_Italy#/media/File:Flag_of_Italy.svg"
+  }
+]
